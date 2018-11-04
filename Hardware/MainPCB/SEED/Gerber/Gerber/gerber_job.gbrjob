@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2018-11-03T22:17:04Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.545,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "boatcc"
+        },
+        "Owner": "Thomas Schwab <frank98@theschwabs.org>",
+        "Size": {
+            "X": 92.964,
+            "Y": 69.85
+        }
+    }
+}
